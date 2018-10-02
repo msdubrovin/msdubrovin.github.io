@@ -1,10 +1,10 @@
 # msdubrovin.github.io
 
-github pages provide hosting for static pages ONLY! PHP scripts would not run there...
+github pages provide HOSTING FOR STATIC PAGES ONLY! PHP scripts would not run there...
 
 See https://pages.github.com/
 
-Use github for web service hosting
+Use github for web page hosting
 
 Create repo on github: msdubrovin.github.io
 
